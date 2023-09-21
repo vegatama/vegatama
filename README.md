@@ -28,8 +28,8 @@ I'm a student of Computer Science at Universitas Pendidikan Indonesia.
 
 ---
 **Certification:**
-- [IT Specialist - Python](Credential ID w9Qrx-FaSh).
-- [IT Specialist - Databases](Credential ID PVAx-uSrm).
+- [IT Specialist - Python](https://github.com/vegatama/vegatama/blob/main/Python.pdf).
+- [IT Specialist - Databases](https://github.com/vegatama/vegatama/blob/main/Databases.pdf).
 
 
 <!--
