@@ -1,4 +1,36 @@
-### Hi there 👋
+# Hello there 👋
+[![HitCount](https://views.whatilearened.today/views/github/vegatama/creative-profile-readme.svg)](https://github.com/iqbalzain99/creative-profile-readme) \
+My name is **Vegatama Firdiady**.  
+
+I'm a student of Computer Science at Universitas Pendidikan Indonesia.  
+- 🔭 I’m currently studying at [Indonesia University of Education](https://www.upi.edu/).
+- 👯 How to reach me: Vegatama23@gmail.com
+
+<br />
+
+**GitHub Statistics**
+<p align="left">
+<a href="https://github.com/vegatama">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vegatama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vegatama&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+<br />
+
+#### 👌 Connect with Me
+<a href = "https://www.linkedin.com/in/vegatama-firdiady/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/vega_tama/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://github.com/vegatama/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<br />
+<br />
+
+---
+**Certification:**
+- [IT Specialist - Python](Credential ID w9Qrx-FaSh).
+- [IT Specialist - Databases](Credential ID PVAx-uSrm).
+
 
 <!--
 **vegatama/vegatama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
