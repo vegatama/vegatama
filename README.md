@@ -2,9 +2,9 @@
 [![HitCount](https://views.whatilearened.today/views/github/vegatama/creative-profile-readme.svg)](https://github.com/iqbalzain99/creative-profile-readme) \
 My name is **Vegatama Firdiady**.  
 
-I'm a student of Computer Science at Universitas Pendidikan Indonesia.  
-- 🔭 I’m currently studying at [Indonesia University of Education](https://www.upi.edu/).
-- 👯 How to reach me: Vegatama23@gmail.com
+I'm a bachelor of Computer Science at Universitas Pendidikan Indonesia.  
+- 🔭 I’m was studying at [Indonesia University of Education](https://www.upi.edu/).
+- 👯 How to reach me: vegatama.work@gmail.com
 
 <br />
 
