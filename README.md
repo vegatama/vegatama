@@ -1,5 +1,5 @@
 # Hello there 👋
-[![HitCount](https://views.whatilearened.today/views/github/vegatama/creative-profile-readme.svg)](https://github.com/iqbalzain99/creative-profile-readme) \
+[![HitCount](https://views.whatilearened.today/views/github/vegatama/creative-profile-readme.svg)]([https://github.com/iqbalzain99/creative-profile-readme](https://github.com/vegatama/vegatama/blob/main/README.md)e) \
 My name is **Vegatama Firdiady**.  
 
 I'm a bachelor of Computer Science at Universitas Pendidikan Indonesia.  
